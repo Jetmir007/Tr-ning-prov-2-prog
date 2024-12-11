@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tr-ning-prov-2-prog/1.0.0": {
+        "runtime": {
+          "Tr-ning-prov-2-prog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tr-ning-prov-2-prog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
