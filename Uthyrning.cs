@@ -26,6 +26,13 @@ namespace Class
             set { totalkostnad = value; }
         }
 
+        public Uthyrning(Bil b, Kund k, int antaldagar){
+            this.b = b;
+            this.k = k;
+            this.antaldagar = antaldagar;
+            this.totalkostnad = b.Dagshyra * antaldagar;
+        }
+
         void VisaUthyrningsInfo(){
             Console.WriteLine("Kundens namn: " + k.Name);
             Console.WriteLine("Kundens telefonnummer: " + k.Telefonnummer);

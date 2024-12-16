@@ -46,6 +46,12 @@ namespace Class
             Console.WriteLine(Märke + " " + Modell + ", " + "Årsmodell: " + Årsmodell + ", " + "Dagshyra: " + Dagshyra + "Tillgänglig: " + ÄrTillgänglig);
         }
 
+        internal static void Add(Bil nyBil)
+        {
+            throw new NotImplementedException();
+        }
+
+
         public Bil(string mä, string mo, int å, double d, bool ä)
         {
             Märke = mä;

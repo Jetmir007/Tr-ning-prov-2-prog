@@ -12,3 +12,4 @@ C:\Github\monogame\Tr-ning-prov-2-prog\obj\Debug\net9.0\refint\Tr-ning-prov-2-pr
 C:\Github\monogame\Tr-ning-prov-2-prog\obj\Debug\net9.0\Tr-ning-prov-2-prog.pdb
 C:\Github\monogame\Tr-ning-prov-2-prog\obj\Debug\net9.0\Tr-ning-prov-2-prog.genruntimeconfig.cache
 C:\Github\monogame\Tr-ning-prov-2-prog\obj\Debug\net9.0\ref\Tr-ning-prov-2-prog.dll
+C:\Github\monogame\Tr-ning-prov-2-prog\obj\Debug\net9.0\Tr-ning-prov-2-prog.sourcelink.json
