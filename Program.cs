@@ -7,13 +7,17 @@ Console.WriteLine("3.Lägg till en ny kund");
 Console.WriteLine("4. Hyra ut en ny bil");
 Console.WriteLine("5. Visa alla uthyrningar");
 Console.WriteLine("6. Återlämna en bil");
-Console.WriteLine("7. Avsluta");
+Console.WriteLine("0. Avsluta");
 
 int val = Convert.ToInt32(Console.ReadLine());
 
 if( val == 1){
     List <Bil> bilar = new List<Bil>();
     Nybil(bilar);
+}
+
+else if( val == 0){
+    break;
 }
 
 void Nybil(List<Bil> bilar){

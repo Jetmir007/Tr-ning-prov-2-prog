@@ -7,6 +7,8 @@ namespace Class
 {
     public class Bil
     {
+        List <Bil> bilar = new List<Bil>();
+
         private string märke;
 
         public string Märke{
